@@ -1,0 +1,2 @@
+web: bundle exec rails s
+webpack: `npm bin`/webpack --config config/webpack/development.js --watch --colors
